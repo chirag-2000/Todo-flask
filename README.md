@@ -8,4 +8,4 @@ This is a todo list application which can help you to keep track and complete yo
 
 This application is built on flask, SQLAlchemy and Mysqlite databse is used ,where you can to add tasks ,update tasks or even delete it.
 
-This application is hosted on a cloud platorm known as Heroku.
+This application is hosted on a cloud platorm Heroku.
